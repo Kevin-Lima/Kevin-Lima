@@ -21,5 +21,5 @@ I'm a developer in my final year of technical high school. I love building logic
 ### Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,git,github,figma,mysql,InteliJ" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,git,github,figma,mysql,idea" />
 </p>
