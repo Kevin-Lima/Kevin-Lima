@@ -1,4 +1,4 @@
-# Hi, I'm Kevin Silva 👋
+# Hi, I'm Kevin Silva 
 
 ### Systems Development Student @ ETEC Zona Leste
 
@@ -10,8 +10,16 @@ I'm a developer in my final year of technical high school. I love building logic
 
 ---
 
-### 🛠 Technologies & Tools
+### 🛠 Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,react" />
+</p>
+
+---
+
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,git,github,figma,mysql,InteliJ" />
 </p>
