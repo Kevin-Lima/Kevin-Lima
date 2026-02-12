@@ -11,3 +11,7 @@ I'm a developer in my final year of technical high school. I love building logic
 ---
 
 ### 🛠 Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react" />
+</p>
