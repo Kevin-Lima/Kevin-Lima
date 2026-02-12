@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Kevin Silva 👋
 
-<!--
-**Kevin-Lima/Kevin-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Systems Development Student @ ETEC Zona Leste
 
-Here are some ideas to get you started:
+I'm a developer in my final year of technical high school. I love building logic and solving problems through code. Currently, I'm focusing on backend development and improving my English skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 3rd year student of Systems Development.
+- 🌱 Currently learning *Node.js, TypeScript and Java*.
+- 🚀 Looking to start my career in technology.
+
+---
+
+### 🛠 Technologies & Tools
